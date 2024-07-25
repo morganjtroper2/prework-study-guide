@@ -18,7 +18,7 @@ Learn more using the console in Chrome DevTools.
 
 ## Credits
 
-morganjtroper2
+N/A
 
 ## License
 
